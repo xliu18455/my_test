@@ -10,7 +10,7 @@ public class HelloServiceController {
 	@RequestMapping("/hello")
 	public String hello(){
 		
-		return  "hello world";
+		return  "Test commit ,hello world";
 	}
 
 }
